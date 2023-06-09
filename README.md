@@ -1,3 +1,3 @@
-# git_test
+# git-test
 A testing repository.
 Hello Odin!
